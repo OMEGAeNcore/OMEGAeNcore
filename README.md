@@ -11,14 +11,25 @@
 
 ### Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22" alt="Ipshita Chakraborty | Twitter" >](https://twitter.com/IpshitaSolo)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" alt="Ipshita Chakraborty | LinkedIn">](https://www.linkedin.com/in/ipshita-chakraborty/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22" alt="Ipshita Chakraborty | Instagram" >](https://www.instagram.com/bobby_omega_solo/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" alt="Ipshita Chakraborty | Twitter" >](https://twitter.com/IpshitaSolo)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" alt="Ipshita Chakraborty | LinkedIn">](https://www.linkedin.com/in/ipshita-chakraborty/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" alt="Ipshita Chakraborty | Instagram" >](https://www.instagram.com/bobby_omega_solo/)
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### Languages and Tools I use:
+
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />](https://html.com/html5/)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40" />](https://www.w3.org/Style/CSS/Overview.en.html)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> ](https://getbootstrap.com)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> ](https://www.java.com)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> ](https://nodejs.org)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> ](https://reactjs.org/)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> ](https://redux.js.org)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> ](https://sass-lang.com)
+[ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> ](https://git-scm.com/)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> ](https://www.oracle.com/)
 <br />
 <br />
 
