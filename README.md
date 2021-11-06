@@ -20,16 +20,6 @@
 <br />
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaganmeet&show_icons=true&theme=dark&locale=en&layout=compact" alt="gaganmeet" /></p>
-
-<br />
-<br />
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=OMEGAeNcore&hide=contribs,stars&theme=radical&show_icons=true&locale=en" alt="OMEGAeNcore" /></p>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaganmeet&theme=dark" alt="gaganmeet" /></p>
+![OMEGAeNcore's github stats](https://github-readme-stats.vercel.app/api?username=OMEGAeNcore&show_icons=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGAeNcore&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OMEGAeNcore&theme=radical)
