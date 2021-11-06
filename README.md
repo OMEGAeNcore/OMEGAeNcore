@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to draw and playing cricket
 
+<br />
 
 ### Connect with me:
 
@@ -15,12 +16,11 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" alt="Ipshita Chakraborty | LinkedIn">](https://www.linkedin.com/in/ipshita-chakraborty/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" alt="Ipshita Chakraborty | Instagram" >](https://www.instagram.com/bobby_omega_solo/)
 
-<br />
 
 ### Languages and Tools I use:
 
-[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />](https://html.com/html5/)
-[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40" />](https://www.w3.org/Style/CSS/Overview.en.html)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> ](https://html.com/html5/)
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40" /> ](https://www.w3.org/Style/CSS/Overview.en.html)
 [ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> ](https://getbootstrap.com)
 [ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> ](https://www.java.com)
@@ -35,5 +35,5 @@
 
 ---
 ![OMEGAeNcore's github stats](https://github-readme-stats.vercel.app/api?username=OMEGAeNcore&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGAeNcore&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OMEGAeNcore&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGAeNcore&theme=radical)
