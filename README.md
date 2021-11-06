@@ -11,11 +11,9 @@
 
 ### Connect with me:
 
-[![Twitter]<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22" >](https://twitter.com/IpshitaSolo)
-[![LinkedIn]<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" >](https://www.linkedin.com/in/ipshita-chakraborty/)
-[![Instagram]<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22" >](https://www.instagram.com/bobby_omega_solo/)
-
-<!-- <p align="left"> <a href="https://twitter.com/IpshitaSolo" target="_blank"> <img align="left" alt="Ipshita Chakraborty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a> <a href="https://www.linkedin.com/in/ipshita-chakraborty/" target="_blank"> <img align="left" alt="Ipshita Chakraborty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.instagram.com/bobby_omega_solo/" target="_blank"> <img align="left" alt="Ipshita Chakraborty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> </p> -->
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22" alt="Ipshita Chakraborty | Twitter" >](https://twitter.com/IpshitaSolo)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" alt="Ipshita Chakraborty | LinkedIn">](https://www.linkedin.com/in/ipshita-chakraborty/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22" alt="Ipshita Chakraborty | Instagram" >](https://www.instagram.com/bobby_omega_solo/)
 
 <br />
 
