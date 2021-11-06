@@ -1,3 +1,5 @@
+![Views](https://komarev.com/ghpvc/?username=OMEGAeNcore&style=flat-square&color=lightgrey)
+
 ## Hi there, I'm Ipshita - aka [OMEGAeNcore](https://github.com/OMEGAeNcore)
 
 ### I'm a Developer based in India
@@ -6,11 +8,14 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to draw and playing cricket
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OMEGAeNcore&label=Profile%20views&color=0e75b6&style=flat" alt="OMEGAeNcore" /> </p>
 
 ### Connect with me:
 
-<p align="left"> <a href="https://twitter.com/IpshitaSolo" target="_blank"> <img align="left" alt="Ipshita Chakraborty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a> <a href="https://www.linkedin.com/in/ipshita-chakraborty/" target="_blank"> <img align="left" alt="Ipshita Chakraborty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.instagram.com/bobby_omega_solo/" target="_blank"> <img align="left" alt="Ipshita Chakraborty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> </p>
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/IpshitaSolo)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/ipshita-chakraborty/)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/bobby_omega_solo/)
+
+<!-- <p align="left"> <a href="https://twitter.com/IpshitaSolo" target="_blank"> <img align="left" alt="Ipshita Chakraborty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a> <a href="https://www.linkedin.com/in/ipshita-chakraborty/" target="_blank"> <img align="left" alt="Ipshita Chakraborty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.instagram.com/bobby_omega_solo/" target="_blank"> <img align="left" alt="Ipshita Chakraborty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> </p> -->
 
 <br />
 
@@ -20,6 +25,6 @@
 <br />
 
 ---
-![OMEGAeNcore's github stats](https://github-readme-stats.vercel.app/api?username=OMEGAeNcore&show_icons=true&include_all_commits=true&theme=radical)
+![OMEGAeNcore's github stats](https://github-readme-stats.vercel.app/api?username=OMEGAeNcore&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGAeNcore&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OMEGAeNcore&theme=radical)
