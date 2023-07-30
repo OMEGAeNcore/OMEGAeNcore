@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" alt="Ipshita Chakraborty | Twitter" >](https://twitter.com/IpshitaSolo)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" alt="Ipshita Chakraborty | Twitter" >](https://twitter.com/OMEGAeNcore)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" alt="Ipshita Chakraborty | LinkedIn">](https://www.linkedin.com/in/ipshita-chakraborty/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" alt="Ipshita Chakraborty | Instagram" >](https://www.instagram.com/bobby_omega_solo/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" alt="Ipshita Chakraborty | Instagram" >](https://www.instagram.com/omegaencore/)
 
 
 ### Languages and Tools I use:
