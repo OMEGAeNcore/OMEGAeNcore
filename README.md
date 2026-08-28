@@ -1,6 +1,10 @@
-![Views](https://komarev.com/ghpvc/?username=OMEGAeNcore&style=flat-square&color=lightgrey)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4AECF7&center=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+World!" alt="Typing SVG" /></a>
+  <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4AECF7&center=true&width=435&lines=It's+Ipshita+here+%F0%9F%8C%9A" alt="Typing SVG" /></a>
+</div>
 
-# Hi there, I'm Ipshita - aka [OMEGAeNcore](https://github.com/OMEGAeNcore)
+Who am I? [IamOMEGAeNcore](https://www.omegaencore.com)
 
 ### I'm a Developer based in India
 
@@ -40,6 +44,10 @@
 <br />
 
 ---
-![OMEGAeNcore's github stats](https://github-readme-stats.vercel.app/api?username=OMEGAeNcore&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OMEGAeNcore&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGAeNcore&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=OMEGAeNcore&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=OMEGAeNcore&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=OMEGAeNcore&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 👀 Profile Views
+[![Views](https://komarev.com/ghpvc/?username=OMEGAeNcore&icon=0&color=0)](https://visitcount.itsvg.in)
